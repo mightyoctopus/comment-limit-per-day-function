@@ -1,1 +1,1 @@
-#Note: This repository contans a **mockup Implementation** of a function; not a production-ready solution.
+#Note: This repository contains a **mockup Implementation** of a function; not a production-ready solution. 
